@@ -7,7 +7,7 @@ import { Avatar } from "@/components/ig/avatar";
 import { Colors } from "@/constants/theme";
 import { useColorScheme } from "@/hooks/use-color-scheme";
 import { useIGStore } from "@/state/ig-store";
-a;
+
 export default function ProfileScreen() {
   const colorScheme = useColorScheme() ?? "light";
   const { currentUser, posts } = useIGStore();
