@@ -1,4 +1,4 @@
-# InstaClone (learning project)                                                                
+# InstaClone (learning project)                                                                 
            
 An Instagram-style UI clone built with **React Native + Expo + Expo Router**.   
 
