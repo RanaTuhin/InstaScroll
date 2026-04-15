@@ -11,7 +11,7 @@ npm install
 npx expo start
 ```
 
-## What’s included  
+## What’s included   
 
 - Home feed: stories row + post cards (like/comment UI)
 - Post detail: view + add comments
