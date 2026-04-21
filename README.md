@@ -10,7 +10,7 @@ This project is intentionally **backend-free**: it uses mock data + an in-memory
 npm install
 npx expo start
 ```
-
+ 
 ## What’s included   
 
 - Home feed: stories row + post cards (like/comment UI)
