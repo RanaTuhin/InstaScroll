@@ -6,7 +6,7 @@ This project is intentionally **backend-free**: it uses mock data + an in-memory
 
 ## Run it 
  
-```bash
+```bash 
 npm install
 npx expo start
 ```
