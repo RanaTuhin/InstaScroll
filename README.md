@@ -1,6 +1,6 @@
 # InstaClone (learning project)                      
                    
-An Instagram-style UI clone built with **React Native + Expo + Expo Router**.    
+An Instagram-style UI clone built with **React Native + Expo + Expo Router**.     
     
 This project is intentionally **backend-free**: it uses mock data + an in-memory store so you can focus on learning UI, navigation, and state.
 
